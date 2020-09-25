@@ -68,6 +68,7 @@ frameworks:
   - "JavaBuildpack::Framework::ProtectAppSecurityProvider"
   - "JavaBuildpack::Framework::RiverbedAppinternalsAgent"
   - "JavaBuildpack::Framework::SeekerSecurityProvider"
+  - "JavaBuildpack::Framework::SplunkOtelJavaAgent"
   - "JavaBuildpack::Framework::SpringAutoReconfiguration"
   - "JavaBuildpack::Framework::SpringInsight"
   - "JavaBuildpack::Framework::SkyWalkingAgent"
